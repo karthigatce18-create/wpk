@@ -97,3 +97,4 @@
         border-radius:30px;
         font-weight:bold;
         transition:0.2s;
+    }
